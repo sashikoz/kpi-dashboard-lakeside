@@ -5,18 +5,19 @@ Dit project is een interactief dashboard dat de prestaties van het bedienend per
 ## 🎯 Doel van het dashboard
 Het doel is om de effectiviteit en efficiëntie van personeel en robot inzichtelijk te maken op basis van real-time gegevens uit het restaurant van Lake Side Mania. De visualisaties ondersteunen de besluitvorming over mogelijke technologische implementaties in de bediening.
 
----
+---  
+
 
 ## 🔍 KPI's die in dit dashboard worden weergegeven
 
 | # | KPI | Verantwoordelijke |
 |---|-----|--------------------|
-| 1 | **Bezorgsnelheid in seconden** (Robot vs Personeel) | Timothy |
-| 2 | **Aantal opgepikte orders per uur** | Tim |
-| 3 | **Aantal fouten per dag (<6 score)** | Johannes |
-| 4 | **Klanttevredenheid jongeren (≤ 45 jaar)** | Eninio |
-| 5 | **Kosten per dag – personeel vs robot** | Jaden |
-| 6 | **Beschikbaarheid personeel vs robot** | Arion |
+| 1 | **Klanttevredenheid jongeren (≤ 45 jaar)** (Robot vs Personeel) | Arion |
+| 2 | **Aantal fouten per dag (<6 score)** | Tim |
+| 3 | **Aantal opgepikte orders per uur** | Jaden  |
+| 4 | **Bezorgsnelheid in seconden** | Eninio |
+| 5 | **Beschikbaarheid personeel vs robot** |  Timothy  |
+| 6 | **Kosten per dag – personeel vs robot** | Johannes|
 
 ---
 
